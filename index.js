@@ -1,7 +1,7 @@
-var hasAnimations = require('has-css-animations')
-  , classes = require('classes')
-  , cssEvent = require('css-emitter')
-  , once = require('once');
+var hasAnimations = require('eugenicsarchivesca-has-css-animations')
+  , classes = require('component-classes')
+  , cssEvent = require('ecarter-css-emitter')
+  , once = require('component-once');
 
 // API:
 // animate(el, 'fadeOutRight', function(el){

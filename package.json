@@ -1,0 +1,13 @@
+{
+  "name": "bmcmahen-animate-css",
+  "description": "a jquery like api for animations, but for css",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "ecarter-css-emitter": "git://github.com/npmcomponent/ecarter-css-emitter.git",
+    "component-once": "git://github.com/npmcomponent/component-once.git",
+    "eugenicsarchivesca-has-css-animations": "git://github.com/npmcomponent/eugenicsarchivesca-has-css-animations.git"
+  },
+  "license": "MIT"
+}
